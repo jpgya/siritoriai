@@ -190,7 +190,7 @@ class _ShiritoriGameScreenState extends State<ShiritoriGameScreen> {
           children: [
             Icon(Icons.smart_toy, color: AppTheme.primaryCyan),
             SizedBox(width: 8),
-            Text('最強しりとり AI'),
+            Text('しりとり AI'),
           ],
         ),
         actions: [
